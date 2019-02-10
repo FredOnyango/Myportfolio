@@ -1,0 +1,19 @@
+body{
+  background-color: red;
+
+}
+.me {
+  float: right;
+  width: 500px
+}
+
+
+.column {
+    width: 400px;
+    float: right;
+  }
+
+.facebuk {
+  float: right;
+  width: 50%;
+}
