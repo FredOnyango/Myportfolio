@@ -4,13 +4,16 @@ body{
 }
 .me {
   float: right;
-  width: 500px
+  width: 500px;
+  color: blue;
+
 }
 
 
 .column {
     width: 400px;
     float: right;
+    color: yellow;
   }
 
 .facebuk {
